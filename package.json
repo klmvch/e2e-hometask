@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "repository": "https://github.com/klmvch/e2e-hometask.git",
-  "author": "Tatsiana Klimovich <t.klmvch@gmail.com>",
+  "author": "Tatsiana Klimovich",
   "license": "MIT",
   "private": false,
   "devDependencies": {
@@ -16,6 +16,6 @@
     "wdio-chromedriver-service": "^8.0.0"
   },
   "scripts": {
-    "wdio": "wdio run ./wdio.conf.js"
+    "test": "wdio run ./wdio.conf.js"
   }
 }
