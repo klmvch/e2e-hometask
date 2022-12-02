@@ -10,6 +10,7 @@
 1. Open the terminal and go to the project root (again).
 2. Run ***yarn test*** command.
 
-**Expected results** - In terminal you see:
+## Expected results
+In terminal you see:
 - "spec" Reporter:  11 passing
 - Spec Files:       1 passed, 1 total (100% completed)
